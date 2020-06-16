@@ -18,7 +18,6 @@
 #
 # Put a comment noting which class is the base class
 
-# BASE
 
 
 class Vehicle:
